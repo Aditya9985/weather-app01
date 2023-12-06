@@ -2,6 +2,8 @@
 # Weather Web App
 
 This is a simple weather web application that provides real-time weather information for locations worldwide.
+https://aditya9985.github.io/weather-app01/
+
 
 ## Table of Contents
 
