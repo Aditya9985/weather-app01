@@ -53,7 +53,7 @@ body {
 .input-box {
 font-size: 2rem;
 font-weight: 300;
-padding: 0.5em 1em;
+padding: 0.1em 0.1em;
 color: var(--clr-accent);
 background-color: linear-gradient(
     to top,
